@@ -1,7 +1,7 @@
 body{
     background-color: lightgray;
 }
-@media screen and (max-width: 400){
+@media (min-width: 1400) and (max-width: 2000) {
     #menu{
         display: flex;
         flex-direction: column;
@@ -16,7 +16,67 @@ body{
     }
     #article{
         display: flex;
-        justify-content: flex-end;
+        flex-direction: row;
+        justify-content: center;
+    }
+    #ChaquetaG{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #1{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #ChaquetaN{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #viewport{
+        display: flex;
+        flex-direction: row;
+    }
+    #2{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #ChaquetaB{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #3{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }    
+}
+@media screen and (max-width: 500) {
+    #menu{
+        display: flex;
+        flex-direction: column;
+        line-height: 2vw;
+    }
+    #mn{
+        line-height: 10vw;
+    }
+    footer{
+        display: flex;
+        align-self: flex-end;
+    }
+    #article{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
     }
     #ChaquetaG{
         border-color: black;
