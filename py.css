@@ -58,7 +58,153 @@ body{
         border-radius: 20px;
         border-width: 10px;
         border-style: solid;
+    }
+    #4{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #5{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #6{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #7
+    {
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
     }    
+    #8{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #9{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #10{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #11{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #12{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #13{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #14{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #15{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #ChaquetaS{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #ChaquetaA{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #CamisetaL{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #CamisetaP{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #CamisetaD{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #CamisetaR{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #CamisetaA{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #PantalonL{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #PantalonC{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #PantalonJCTM{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #PantalonJCE{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #PantalonCBD{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+
 }
 @media screen and (max-width: 500) {
     #menu{
@@ -113,6 +259,151 @@ body{
         border-style: solid;
     }
     #3{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #4{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #5{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #6{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #7
+    {
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }    
+    #8{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #9{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #10{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #11{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #12{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #13{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #14{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #15{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #ChaquetaS{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #ChaquetaA{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #CamisetaL{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #CamisetaP{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #CamisetaD{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #CamisetaR{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #CamisetaA{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #PantalonL{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #PantalonC{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #PantalonJCTM{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #PantalonJCE{
+        border-color: black;
+        border-radius: 20px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    #PantalonCBD{
         border-color: black;
         border-radius: 20px;
         border-width: 10px;
